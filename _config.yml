@@ -12,7 +12,7 @@ title                    : "Fan Yali / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Fan Yali"
 description              : &description "A EEE graduate student from NTU"
-url                      : https://lilllya.githuab.io/fanyali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lilllya.github.io/fanyali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lilllya/fanyali.github.io"
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "lilllya"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
