@@ -12,7 +12,7 @@ title                    : "Fan Yali / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Fan Yali"
 description              : &description "A EEE graduate student from NTU"
-url                      : https://fanyali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lilllya.githuab.io/fanyali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lilllya/fanyali.github.io"
 
