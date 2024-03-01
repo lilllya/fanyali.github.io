@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my bachelor's degree from [National University of Denfense University](https://www.nudt.edu.cn) and completed my graduation thesis about multi-unmanned vehicles formation control and applications. Now I'm a final year graduate student from [School of EEE](https://www.ntu.edu.sg/eee/home), [Nanyang Technological University](https://www.ntu.edu.sg). My research interest includes formation control, unmanned vehicles, intelligient systems and machine learning.
+I obtained my bachelor's degree from [National University of Denfense University](https://www.nudt.edu.cn) and completed my graduation thesis about multi-unmanned vehicles formation control and applications. Now I'm a final year graduate student from [School of EEE](https://www.ntu.edu.sg/eee/home), [Nanyang Technological University](https://www.ntu.edu.sg). My research area includes formation control, unmanned vehicles, intelligient systems and machine learning.
 
 You can find my CV here: [Yali's Curriculum Vitae](../assets/Yali_CV_PhD.pdf).
 
@@ -19,10 +19,18 @@ You can find my CV here: [Yali's Curriculum Vitae](../assets/Yali_CV_PhD.pdf).
 
 2.Fan, Y., Chen, J., Ma, Z. (2023). Rotated Aerial Object Detection Based on Improved YOLOv5 Method. In: Fu, W., Gu, M., Niu, Y. (eds) Proceedings of 2022 International Conference on Autonomous Unmanned Systems (ICAUS 2022). ICAUS 2022. Lecture Notes in Electrical Engineering, vol 1010. Springer, Singapore. [https://doi.org/10.1007/978-981-99-0479-2_77](https://doi.org/10.1007/978-981-99-0479-2_77)
 
+**Research interests**
+
+An intelligient system includes three parts which are perception, planning, and control. From my past school life, I have some experiences in the three parts from image processing which belongs to "perception" to designing PID path tracking which belongs to "control". With those experiences, I find that controls on real robots give me large sense of achievements and make the tedious research work interesting and sustainable. Human-robot interaction is also included in order to make robots a powerful companion with human and endow them human intelligience.
+
 **Hobbies**
 
+As a ENFJ🌞, I have a wide range of hobbies as follows.
+
 🧘Yoga
+
 💃Kpop
+
 🍳Cooking
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
