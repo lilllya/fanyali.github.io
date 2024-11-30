@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my bachelor's degree from [National University of Denfense Technology](https://www.nudt.edu.cn) and completed my graduation thesis about multi-unmanned vehicles formation control and applications. Now I'm a final year graduate student from [School of EEE](https://www.ntu.edu.sg/eee/home), [Nanyang Technological University](https://www.ntu.edu.sg). My research area includes formation control, unmanned vehicles, intelligient systems and machine learning.
+I obtained my bachelor's degree from [National University of Denfense Technology](https://www.nudt.edu.cn) and completed my graduation thesis about multi-unmanned vehicles formation control and applications. Now I'm a PhD student from [School of EEE](https://www.ntu.edu.sg/eee/home), [Nanyang Technological University](https://www.ntu.edu.sg). My research area includes formation control, unmanned vehicles, intelligient systems and machine learning.
 
 You can find my CV here: [Yali's Curriculum Vitae](https://github.com/lilllya/fanyali.github.io/blob/master/assets/Yali_CV_PhD.pdf).
 
